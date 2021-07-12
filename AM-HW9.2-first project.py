@@ -1,3 +1,4 @@
+#It was done for class using resources provided by the instructor.
 import turtle
 def koch(t, order, size):
     """
