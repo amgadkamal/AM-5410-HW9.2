@@ -1,3 +1,4 @@
+# It was done for class using resources provided by the instructor.
 import pygame, math
 from pygame_button import Button
 pygame.init() # prepare the pygame module for use
